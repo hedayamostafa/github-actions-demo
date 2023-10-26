@@ -47,6 +47,3 @@ This repository includes the following workflow files:
 - [GitHub Actions Documentation](https://docs.github.com/en/actions): Detailed information about GitHub Actions and how to use them effectively.
 
 - [GitHub Actions Marketplace](https://github.com/marketplace?type=actions): A collection of actions contributed by the community that you can integrate into your workflows.
-
-- [GitHub Learning Lab - Introduction to GitHub Actions](https://lab.github.com/githubtraining/github-actions:-introduction): Interactive courses to learn GitHub Actions.
-
